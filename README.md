@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 
 ## Quick Start
-To test the AdaIFL, simply run ```test.py```
+To test the AdaIFL, simply run ```test.py```. You can download the model checkpoint [here](https://drive.google.com/file/d/187SJ_O0YHP0DVBXgfob_o2BofzCf0TMP/view?usp=sharing).
 
 ```
 python test.py --image image_path --model model_path --output output_path
